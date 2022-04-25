@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there, and welcome to my Github profile 👋
+### My name is Douglas and my nickname is "doug-silva1992"!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
